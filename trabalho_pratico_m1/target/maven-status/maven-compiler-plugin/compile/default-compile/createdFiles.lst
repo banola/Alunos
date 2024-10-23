@@ -1,0 +1,8 @@
+com\mycompany\trabalho_pratico_m1\main\MainServlet.class
+com\mycompany\trabalho_pratico_m1\services\AlunoService.class
+com\mycompany\trabalho_pratico_m1\controller\DeletarAlunoServlet.class
+com\mycompany\trabalho_pratico_m1\controller\AdicionarAlunoServlet.class
+com\mycompany\trabalho_pratico_m1\model\Aluno.class
+com\mycompany\trabalho_pratico_m1\controller\EditarAlunoServlet.class
+com\mycompany\trabalho_pratico_m1\controller\ListarAlunosServlet.class
+com\mycompany\trabalho_pratico_m1\controller\AtualizarAlunoServlet.class
